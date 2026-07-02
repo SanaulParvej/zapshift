@@ -193,9 +193,9 @@ class UserProfile {
 
 abstract final class DemoData {
   static const UserProfile user = UserProfile(
-    name: 'Rahim Ahmed',
+    name: 'Musfik Rahman',
     role: 'Merchant account',
-    email: 'rahim@zapshift.com',
+    email: 'musfik@zapshift.com',
     phone: '+880 1712 345 678',
     address: AppStrings.baseAddress,
     avatarUrl:
@@ -333,7 +333,7 @@ abstract final class DemoData {
     ParcelItem(
       id: 'ZX-1045',
       trackingNumber: 'ZX1045BD',
-      sender: 'Rahim Ahmed',
+      sender: 'Musfik Rahman',
       receiver: 'Nabila Rahman',
       status: ParcelStatus.inTransit,
       price: 120,
@@ -368,7 +368,7 @@ abstract final class DemoData {
     ParcelItem(
       id: 'ZX-1088',
       trackingNumber: 'ZX1088BD',
-      sender: 'Rahim Ahmed',
+      sender: 'Musfik Rahman',
       receiver: 'Mim Akter',
       status: ParcelStatus.delivered,
       price: 90,
